@@ -10,8 +10,12 @@ Running the app will automatically create the tables in the postgres database
 
 ## Using postman try different endpoints
 localhost:5000/todo
+
+
 localhost:5000/todo/<todo_id>
 
 
 localhost:5000/todo/<todo_id>/comments
+
+
 localhost:5000/todo/<todo_id>/comments/<comment_id>'
